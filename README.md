@@ -1,0 +1,1 @@
+# display-of-array-of-using-pointers
